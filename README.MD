@@ -102,6 +102,17 @@ Esto es un texto referente a una cita:
 Si damos doble enter podemos escribir fuera de la cita.
 >Esto es otra cita.
 
+# Lineas Divisorias:
+Esto es un texto dividido.
+
+---
+Se necesita espaciar con enter el texto de los guiones o se interpretará como underline. También se puede hacer con asteriscos
+
+***
+
+O también podemos con barra baja, siempre 3
+
+___
 
 
 
