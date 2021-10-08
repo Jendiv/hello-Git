@@ -5,7 +5,16 @@
 ##### Cabecera H5
 ###### Cabecera H6
 
+Underline 1 (-)
+-------------
 
+Underline 2 (=)
+============
 
-Soy un Readme.
+- formato *italica* de la primer forma.
+- formato _italica_ de la segunda forma.
+-formato **bold** o __strong__.
+- formato ~~tachado~~.
+- Prueba de que usamos *italica*, usamos **bold** y usamos ~~tachado~~ todo en un mismo texto.
+
 
