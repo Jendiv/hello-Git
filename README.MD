@@ -96,7 +96,11 @@ export  $initHighlight;
  
 # Citas:
 
+Esto es un texto referente a una cita:
+>Esto es una cita.
 
+Si damos doble enter podemos escribir fuera de la cita.
+>Esto es otra cita.
 
 
 
