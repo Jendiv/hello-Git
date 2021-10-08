@@ -35,6 +35,12 @@ Underline 2 (=)
 - Item.
 - Item.
 
+# Links:
+- <a href="#">Esto es un link formato HTML</a>
+
+- [Esto es un link en Markdown](hhttp://www.google.es)
+
+- [Esto es un link al index](index.html)
 
 
 
