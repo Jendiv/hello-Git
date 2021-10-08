@@ -114,6 +114,16 @@ O también podemos con barra baja, siempre 3
 
 ___
 
+# Saltos de línea:
+
+Esto es el primer parrafo.
+
+Esto es el segundo parrafo.
+(si no damos enter la línea continua, si damos enter se separan. )
+
+
+Esto es el tercer parrafo.
+
 
 
 
